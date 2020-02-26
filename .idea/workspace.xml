@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="692fd737-3634-4bcb-8d10-82649030ea4b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YL4kdSAAsu2HDt4MyNVwLLN56O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="loterie" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="692fd737-3634-4bcb-8d10-82649030ea4b" name="Default Changelist" comment="" />
+      <created>1582708684296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582708684296</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="550" y="219" width="800" height="677" key="#HTTP_Proxy" timestamp="1582711946074">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="550" y="219" width="800" height="677" key="#HTTP_Proxy/984.1080.1920.1080/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1582711946074" />
+    <state x="555" y="200" width="800" height="677" key="#Project_Structure" timestamp="1582712772920">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="200" width="800" height="677" key="#Project_Structure/984.1080.1920.1080/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1582712772920" />
+    <state x="768" y="258" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1582726621894">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="768" y="258" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/984.1080.1920.1080/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1582726621894" />
+    <state x="693" y="288" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1582717084626">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="288" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/984.1080.1920.1080/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1582717084626" />
+    <state x="704" y="282" width="501" height="513" key="FileChooserDialogImpl" timestamp="1582711937519">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="704" y="282" width="501" height="513" key="FileChooserDialogImpl/984.1080.1920.1080/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1582711937519" />
+    <state width="1874" height="679" key="GridCell.Tab.0.bottom" timestamp="1582731734122">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="679" key="GridCell.Tab.0.bottom/984.1080.1920.1080/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1582731734122" />
+    <state width="1874" height="679" key="GridCell.Tab.0.center" timestamp="1582731734122">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="679" key="GridCell.Tab.0.center/984.1080.1920.1080/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1582731734122" />
+    <state width="1874" height="679" key="GridCell.Tab.0.left" timestamp="1582731734122">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="679" key="GridCell.Tab.0.left/984.1080.1920.1080/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1582731734122" />
+    <state width="1874" height="679" key="GridCell.Tab.0.right" timestamp="1582731734122">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="679" key="GridCell.Tab.0.right/984.1080.1920.1080/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1582731734122" />
+    <state x="662" y="21" width="1024" height="845" key="SettingsEditor" timestamp="1582713906231">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="662" y="21" width="1024" height="845" key="SettingsEditor/984.1080.1920.1080/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1582713906231" />
+    <state x="100" y="98" width="1720" height="882" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582720818409">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="100" y="98" width="1720" height="882" key="com.intellij.history.integration.ui.views.FileHistoryDialog/984.1080.1920.1080/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1582720818409" />
+    <state x="605" y="250" width="710" height="578" key="find.popup" timestamp="1582714721419">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="605" y="250" width="710" height="578" key="find.popup/984.1080.1920.1080/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1582714721419" />
+    <state x="624" y="246" key="run.anything.popup" timestamp="1582731571112">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="246" key="run.anything.popup/984.1080.1920.1080/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1582731571112" />
+  </component>
+</project>

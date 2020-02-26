@@ -1,0 +1,492 @@
+[
+  {
+    "name": "Real Madrid CF",
+    "country": "ESP",
+    "point": 146
+  },
+  {
+    "name": "FC Barcelona",
+    "country": "ESP",
+    "point": 138
+  },
+  {
+    "name": "FC Bayern Munchen",
+    "country": "GER",
+    "point": 128
+  },
+  {
+    "name": "Atletico de Madrid",
+    "country": "ESP",
+    "point": 127
+  },
+  {
+    "name": "FC Juventus",
+    "country": "ITA",
+    "point": 124
+  },
+  {
+    "name": "Manchester City",
+    "country": "ENG",
+    "point": 106
+  },
+  {
+    "name": "Sevilla CF",
+    "country": "ESP",
+    "point": 104
+  },
+  {
+    "name": "Paris Saint Germain",
+    "country": "FRA",
+    "point": 103
+  },
+  {
+    "name": "Arsenal FC",
+    "country": "ENG",
+    "point": 101
+  },
+  {
+    "name": "FC Porto",
+    "country": "POR",
+    "point": 93
+  },
+  {
+    "name": "BV Borussia Dortmund",
+    "country": "GER",
+    "point": 85
+  },
+  {
+    "name": "AS Roma",
+    "country": "ITA",
+    "point": 81
+  },
+  {
+    "name": "SSC Napoli",
+    "country": "ITA",
+    "point": 80
+  },
+  {
+    "name": "Shakhtar Donetsk",
+    "country": "UKR",
+    "point": 80
+  },
+  {
+    "name": "Tottenham Hotspur",
+    "country": "ENG",
+    "point": 78
+  },
+  {
+    "name": "Manchester United",
+    "country": "ENG",
+    "point": 78
+  },
+  {
+    "name": "FC Zenit St.Petersburg",
+    "country": "RUS",
+    "point": 72
+  },
+  {
+    "name": "Ajax Amsterdam",
+    "country": "NED",
+    "point": 69
+  },
+  {
+    "name": "Villarreal CF",
+    "country": "ESP",
+    "point": 68
+  },
+  {
+    "name": "SL Benfica",
+    "country": "POR",
+    "point": 68
+  },
+  {
+    "name": "Dynamo Kiev ",
+    "country": "UKR",
+    "point": 65
+  },
+  {
+    "name": "FC Schalke 04",
+    "country": "GER",
+    "point": 63
+  },
+  {
+    "name": "AS Monaco",
+    "country": "FRA",
+    "point": 62
+  },
+  {
+    "name": "Besiktas JK",
+    "country": "TUR",
+    "point": 62
+  },
+  {
+    "name": "Olympique Lyonnais",
+    "country": "FRA",
+    "point": 61
+  },
+  {
+    "name": "Bayer Leverkusen",
+    "country": "GER",
+    "point": 61
+  },
+  {
+    "name": "FC Basel 1893",
+    "country": "SUI",
+    "point": 54
+  },
+  {
+    "name": "RB Salzburg",
+    "country": "AUT",
+    "point": 54
+  },
+  {
+    "name": "Sporting CP",
+    "country": "POR",
+    "point": 50
+  },
+  {
+    "name": "CSKA Moscou",
+    "country": "RUS",
+    "point": 48
+  },
+  {
+    "name": "RSC Anderlecht",
+    "country": "BEL",
+    "point": 46
+  },
+  {
+    "name": "Athletic Bilbao",
+    "country": "ESP",
+    "point": 46
+  },
+  {
+    "name": "Olympiakos Pireus FC",
+    "country": "GRE",
+    "point": 44
+  },
+  {
+    "name": "VfL Wolfsburg",
+    "country": "GER",
+    "point": 40
+  },
+  {
+    "name": "Club Brugge KV",
+    "country": "BEL",
+    "point": 39
+  },
+  {
+    "name": "AC Fiorentina",
+    "country": "ITA",
+    "point": 39
+  },
+  {
+    "name": "Valencia CF",
+    "country": "ESP",
+    "point": 37
+  },
+  {
+    "name": "SS Lazio",
+    "country": "ITA",
+    "point": 37
+  },
+  {
+    "name": "PSV Eindhoven",
+    "country": "NED",
+    "point": 37
+  },
+  {
+    "name": "AC Sparta Praha",
+    "country": "CZE",
+    "point": 35
+  },
+  {
+    "name": "FK Krasnodar",
+    "country": "RUS",
+    "point": 34
+  },
+  {
+    "name": "FC Viktoria Plzen",
+    "country": "CZE",
+    "point": 33
+  },
+  {
+    "name": "Fenerbahce SK",
+    "country": "TUR",
+    "point": 31
+  },
+  {
+    "name": "Celtic FC Glasgow",
+    "country": "SCO",
+    "point": 31
+  },
+  {
+    "name": "FC Kobenhavn",
+    "country": "DEN",
+    "point": 31
+  },
+  {
+    "name": "FC Internazionale",
+    "country": "ITA",
+    "point": 31
+  },
+  {
+    "name": "Olympique Marseille",
+    "country": "FRA",
+    "point": 31
+  },
+  {
+    "name": "Sporting Braga",
+    "country": "POR",
+    "point": 31
+  },
+  {
+    "name": "NK Dinamo Zagreb",
+    "country": "CRO",
+    "point": 29
+  },
+  {
+    "name": "KAA Gent",
+    "country": "BEL",
+    "point": 29
+  },
+  {
+    "name": "Moenchengladbach",
+    "country": "GER",
+    "point": 29
+  },
+  {
+    "name": "Lokomotiv Moscou",
+    "country": "RUS",
+    "point": 28
+  },
+  {
+    "name": "FK Astana",
+    "country": "KAZ",
+    "point": 27
+  },
+  {
+    "name": "BATE Borisov",
+    "country": "BLR",
+    "point": 27
+  },
+  {
+    "name": "Young Boys Bern",
+    "country": "SUI",
+    "point": 27
+  },
+  {
+    "name": "Ludogorets Razgrad",
+    "country": "BUL",
+    "point": 27
+  },
+  {
+    "name": "APOEL Nicosie",
+    "country": "CYP",
+    "point": 25
+  },
+  {
+    "name": "KRC Genk",
+    "country": "BEL",
+    "point": 25
+  },
+  {
+    "name": "Legia Varsovie",
+    "country": "POL",
+    "point": 24
+  },
+  {
+    "name": "Eintracht Frankfurt",
+    "country": "GER",
+    "point": 24
+  },
+  {
+    "name": "FC Dnipro Dnipropetrovsk",
+    "country": "UKR",
+    "point": 24
+  },
+  {
+    "name": "Rapid Wien",
+    "country": "AUT",
+    "point": 23
+  },
+  {
+    "name": "PAOK Salonique",
+    "country": "GRE",
+    "point": 23
+  },
+  {
+    "name": "AS Saint Etienne",
+    "country": "FRA",
+    "point": 23
+  },
+  {
+    "name": "FCSB Bucarest",
+    "country": "ROM",
+    "point": 23
+  },
+  {
+    "name": "Galatasaray SK",
+    "country": "TUR",
+    "point": 22
+  },
+  {
+    "name": "RB Leipzig",
+    "country": "GER",
+    "point": 22
+  },
+  {
+    "name": "Feyenoord Rotterdam",
+    "country": "NED",
+    "point": 22
+  },
+  {
+    "name": "Leicester City",
+    "country": "ENG",
+    "point": 22
+  },
+  {
+    "name": "Garabag Agdam",
+    "country": "AZE",
+    "point": 22
+  },
+  {
+    "name": "SK Slavia Praha",
+    "country": "CZE",
+    "point": 21
+  },
+  {
+    "name": "RCD Espanyol Barcelona",
+    "country": "ESP",
+    "point": 20.71
+  },
+  {
+    "name": "Getafe CF",
+    "country": "ESP",
+    "point": 20.71
+  },
+  {
+    "name": "Malmoe FF",
+    "country": "SWE",
+    "point": 20
+  },
+  {
+    "name": "Milan AC",
+    "country": "ITA",
+    "point": 19
+  },
+  {
+    "name": "Celta Vigo",
+    "country": "ESP",
+    "point": 19
+  },
+  {
+    "name": "NK Maribor",
+    "country": "SLO",
+    "point": 18
+  },
+  {
+    "name": "FC Zurich",
+    "country": "SUI",
+    "point": 18
+  },
+  {
+    "name": "FK Partizan Belgrade",
+    "country": "SRB",
+    "point": 18
+  },
+  {
+    "name": "Standard de Liege",
+    "country": "BEL",
+    "point": 17
+  },
+  {
+    "name": "Wolverhampton Wanderers",
+    "country": "ENG",
+    "point": 17
+  },
+  {
+    "name": "Everton FC",
+    "country": "ENG",
+    "point": 17
+  },
+  {
+    "name": "FK Crevna Zvezda",
+    "country": "SRB",
+    "point": 16
+  },
+  {
+    "name": "Spartak Moscou",
+    "country": "RUS",
+    "point": 16
+  },
+  {
+    "name": "Maccabi Tel Aviv",
+    "country": "ISR",
+    "point": 16
+  },
+  {
+    "name": "Dinamo Moscou",
+    "country": "RUS",
+    "point": 16
+  },
+  {
+    "name": "AEK Athens",
+    "country": "GRE",
+    "point": 14
+  },
+  {
+    "name": "FC Midtjylland",
+    "country": "DEN",
+    "point": 14
+  },
+  {
+    "name": "HNK Rijeka",
+    "country": "CRO",
+    "point": 13
+  },
+  {
+    "name": "FK Rostov",
+    "country": "RUS",
+    "point": 13
+  },
+  {
+    "name": "Molde FK",
+    "country": "NOR",
+    "point": 13
+  },
+  {
+    "name": "Atalanta Bergamo",
+    "country": "ITA",
+    "point": 13
+  },
+  {
+    "name": "FC Torino",
+    "country": "ITA",
+    "point": 13
+  },
+  {
+    "name": "Astra Giurgiu",
+    "country": "ROM",
+    "point": 12
+  },
+  {
+    "name": "Sheriff Tiraspol",
+    "country": "MDA",
+    "point": 12.25
+  },
+  {
+    "name": "Hapoel Beer-Sheva",
+    "country": "ISR",
+    "point": 12
+  },
+  {
+    "name": "Apollon Limassol",
+    "country": "CYP",
+    "point": 12
+  },
+  {
+    "name": "Zorya Luhansk",
+    "country": "UKR",
+    "point": 12
+  }
+]

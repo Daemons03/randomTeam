@@ -1,0 +1,164 @@
+{
+  "team": [
+    {
+      "team": "City",
+      "country": "England",
+      "point": 200
+    },
+    {
+      "team": "Liverpool",
+      "country": "England",
+      "point": 220
+    },
+    {
+      "team": "Bayern",
+      "country": "German",
+      "point": 215
+    },
+    {
+      "team": "Madrid",
+      "country": "Spain",
+      "point": 250
+    },
+    {
+      "team": "Barcelone",
+      "country": "Spain",
+      "point": 240
+    },
+    {
+      "team": "Paris",
+      "country": "French",
+      "point": 200
+    },
+    {
+      "team": "Juventus",
+      "country": "Italia",
+      "point": 210
+    },
+    {
+      "team": "United",
+      "country": "England",
+      "point": 205
+    },
+    {
+      "team": "Totenham",
+      "country": "England",
+      "point": 180
+    },
+    {
+      "team": "Chelsea",
+      "country": "England",
+      "point": 170
+    },
+    {
+      "team": "Dortmund",
+      "country": "German",
+      "point": 175
+    },
+    {
+      "team": "Athletico",
+      "country": "Spain",
+      "point": 195
+    },
+    {
+      "team": "Monaco",
+      "country": "French",
+      "point": 160
+    },
+    {
+      "team": "Milan",
+      "country": "Italia",
+      "point": 155
+    },
+    {
+      "team": "Naples",
+      "country": "Italia",
+      "point": 178
+    },
+    {
+      "team": "Porto",
+      "country": "Portugal",
+      "point": 150
+    },
+    {
+      "team": "Arsenal",
+      "country": "England",
+      "point": 145
+    },
+    {
+      "team": "Wolfburg",
+      "country": "German",
+      "point": 110
+    },
+    {
+      "team": "Stuggart",
+      "country": "German",
+      "point": 102
+    },
+    {
+      "team": "Seville",
+      "country": "Spain",
+      "point": 140
+    },
+    {
+      "team": "Lyon",
+      "country": "French",
+      "point": 130
+    },
+    {
+      "team": "Rome",
+      "country": "Italia",
+      "point": 140
+    },
+    {
+      "team": "Inter",
+      "country": "Italia",
+      "point": 145
+    },
+    {
+      "team": "Benfica",
+      "country": "Portugal",
+      "point": 120
+    },
+    {
+      "team": "Everton",
+      "contry": "England",
+      "point": 90
+    },
+    {
+      "team": "Lepiz",
+      "contry": "German",
+      "point": 94
+    },
+    {
+      "team": "Valence",
+      "contry": "Spain",
+      "point": 56
+    },
+    {
+      "team": "Villareal",
+      "contry": "Spain",
+      "point": 55
+    },
+    {
+      "team": "Marseille",
+      "contry": "French",
+      "point": 94
+    },
+    {
+      "team": "otherOne",
+      "contry": "Other",
+      "point": 25
+    },
+    {
+      "team": "otherTwo",
+      "contry": "Other",
+      "point": 30
+    },
+    {
+      "team": "otherThree",
+      "contry": "Other",
+      "point": 20
+    }
+  ]
+}
